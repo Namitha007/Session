@@ -1,0 +1,43 @@
+.footer{
+    background-color: black;
+}
+
+a{
+    padding: 0px 40px 0px 40px;
+}
+
+#youtube{
+    color: red;
+    width: 45px;
+    height: 45px;
+    display: inline-block;
+    text-align: center;
+    line-height: 45px;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+#twitter{
+    color:blue;
+    width: 45px;
+    height: 45px;
+    display: inline-block;
+    text-align: center;
+    line-height: 45px;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+#instagram{
+    color: rgb(248, 19, 95);
+    width: 45px;
+    height: 45px;
+    display: inline-block;
+    text-align: center;
+    line-height: 45px;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 50%;
+}
